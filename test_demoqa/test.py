@@ -1,7 +1,7 @@
 from pathlib import Path
-from selene import browser, have
 import allure
 from allure_commons.types import Severity
+from selene import browser, have
 
 
 @allure.tag("web")
